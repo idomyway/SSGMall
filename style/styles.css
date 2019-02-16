@@ -1,0 +1,23 @@
+.container{
+	overflow:hidden;
+}
+.container{
+	margin:auto;
+}
+.mySlideshow .animated{
+	position:absolute;
+}
+.first{
+	background:url("../images/banner1.png") center no-repeat;
+}
+.second{
+	background:url("../images/banner2.png") center no-repeat;
+}
+
+.third{
+	background:url("../images/banner3.png") center no-repeat;
+}
+
+.fourth{
+	background:url("../images/banner4.png") center no-repeat;
+}
